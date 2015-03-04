@@ -6,6 +6,8 @@ import java.util.Stack;
 
 /**
  * Created by 21103619 on 04/03/2015.
+ *
+ * Coucou c'est nous les gars on est trop des badass ! wesh rpz le son des playa en direct de la marina
  */
 public class MySimpleStack implements SimpleStack {
 
